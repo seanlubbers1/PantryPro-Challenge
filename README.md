@@ -2,13 +2,9 @@
 
 In this challenge lab, you'll enhance an existing Flask-based web application by integrating DALL-E to generate and display images based on user requests for recipes. This lab will test your ability to work with APIs, modify web application code, and create a seamless user experience.
 
----
-
 ## Lab Overview
 
 In this lab, you'll start with a basic AI-powered chatbot that uses OpenAI's GPT-4 to generate responses. Your challenge is to modify the application to call DALL-E and generate images of the recipes users ask for, then display these images on the web interface.
-
----
 
 ## Instructions
 
